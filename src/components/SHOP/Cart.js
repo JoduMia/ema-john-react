@@ -8,7 +8,7 @@ export default function Cart({cart}) {
 
 
   return (
-    <div className='bg-[#ff99004d] p-3'>
+    <div className='bg-[#d293344d] p-3'>
       <div className='h-screen fixed'>
         <div>
           <h1 className='text-center text-xl pb-1 border-b-2 border-black uppercase font-bold'>Order Summary</h1>
