@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ema-john-react/static/css/main.6d60f723.css",
-    "main.js": "/ema-john-react/static/js/main.81ed4ef2.js",
+    "main.css": "/ema-john-react/static/css/main.0fa73b61.css",
+    "main.js": "/ema-john-react/static/js/main.16bd4c30.js",
     "static/media/Logo.svg": "/ema-john-react/static/media/Logo.311dd846bc480af4fcd81826b6b793a8.svg",
     "index.html": "/ema-john-react/index.html",
-    "main.6d60f723.css.map": "/ema-john-react/static/css/main.6d60f723.css.map",
-    "main.81ed4ef2.js.map": "/ema-john-react/static/js/main.81ed4ef2.js.map"
+    "main.0fa73b61.css.map": "/ema-john-react/static/css/main.0fa73b61.css.map",
+    "main.16bd4c30.js.map": "/ema-john-react/static/js/main.16bd4c30.js.map"
   },
   "entrypoints": [
-    "static/css/main.6d60f723.css",
-    "static/js/main.81ed4ef2.js"
+    "static/css/main.0fa73b61.css",
+    "static/js/main.16bd4c30.js"
   ]
 }
